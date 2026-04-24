@@ -1,0 +1,8 @@
+@import './fonts.css';
+@import './tailwind.css';
+
+@import '../PortfolioTemplateVersion1Kimo/styles.css';
+
+html, body, #root {
+  background-color: #F4F1EC;
+}
