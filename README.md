@@ -1,4 +1,4 @@
-# FORMA&CO Portfolio Rebuild
+# Portfolio Rebuild
 
 A self-contained rebuild of the FORMA&CO editorial portfolio landing page, paired with Figma documentation files that explain how to recreate, extend, and systematize the design accurately.
 
